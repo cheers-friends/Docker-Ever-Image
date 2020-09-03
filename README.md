@@ -14,7 +14,7 @@ A collection of scripts that ensure your docker images don't go stale and get de
       - Prevents having to physically logout and back in for changes to take effect
       - `newgrp docker`
       
- ### How to use
+ ## How to use
  Run Docker-EverImage.sh
 
 ## How it works
