@@ -2,7 +2,6 @@
 A collection of scripts that ensure your docker images don't go stale and get deleted in Docker Hub under the new policy in which images that don't get pulled in over 6 months get removed.
 
 ## Prerequisites
-Requires the following:
 1. Crontab
 2. Docker
 3. Bash
